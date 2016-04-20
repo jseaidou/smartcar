@@ -1,0 +1,17 @@
+{
+    "name": "smart-car",
+    "description": "SmartCar API application",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x",
+        "request": "2.x",
+        "body-parser": "x",
+        "mocha": "x",
+        "chai": "x",
+        "should": "x",
+        "supertest": "x",
+        "rewire": "x",
+        "sinon": "x"
+    }
+}
